@@ -49,7 +49,7 @@ applications.
 * Used Linux RPM packages and anaconda to develop an integrated CD installer that would seamlessly install the JRE, a java web server, support libraries both open source, and developed by N-able, as well as all Java and C++ programs necessary for the complete integrated solution.  
 
 #### March 2004 to July 2006
-**Technical Systems Analyst**
+**Technical Systems Analyst**  
 N-able Technologies  
 
 * Aided first and second line support engineers to troubleshoot complex problems with code written in C++, Java, Perl, PL/PGSQL and Bash 
