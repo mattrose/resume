@@ -1,6 +1,4 @@
-<center>
 ## Matthew Rose
-</center>
 
 42 Empress Ave N.  
 Ottawa, Ontario, Canada  
