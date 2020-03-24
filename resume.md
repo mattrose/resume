@@ -4,6 +4,11 @@
 Ottawa, Ontario, Canada  
 K1R 7E8  
 
+### Professional Summary
+
+UNIX Systems Administrator and Software Developer with over 20 years of experience in many aspects of Information Technology, including administering and developing a variety software ranging from enterprise-grade monitoring software for a variety of platforms, including Linux, FreeBSD, Windows, MacOS and a variety of other UNIX Operating System.  Enjoys working in a collaborative team environment, and enjoys both learning from other team members, and teaching them things I have learned.
+
+
 ### Employment History
 
 #### March 2017 to February 2020
