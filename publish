@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby 
+require 'kramdown'
+require 'kramdown/converter/pdf'
+require 'htmltoword'
+# disable internationalization warning 
+Prawn::Font::AFM.hide_m17n_warning = true
+
+## Get markdown text
+text = open("resume.md").read
+
+
+open("resume.pdf",'w') { |f| f.write Kramdown::Document.new(text).to_pdf }
+open("resume.html",'w') { |f| f.write Kramdown::Document.new(text).to_html }
+Htmltoword::Document.create_and_save(Kramdown::Document.new(text).to_html,"resume.docx")
+

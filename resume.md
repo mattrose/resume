@@ -103,6 +103,12 @@ Livingston (now part of Lucent), Cisco, and Ascend (Now part of Lucent).
 * On-site visits for business and residential customers. 
  
 ### Volunteer Experience  
+
+**Chief contributor to
+[Terminator](https://github.com/gnome-terminator/terminator)  Terminal emulator April 2020 - Present**
+
+* Took over maintenance and feature development for the [Terminator](https://github.com/gnome-terminator/terminator) Terminal Emulator
+
 **Fedora Package Maintainer Jan. 2013 - Present**  
 
 * Maintained Fedora Package for <a href="https://launchpad.net/terminator">Terminator</a> and <a href="https://github.com/adobe-fonts/source-code-pro">Adobe Source Code Pro Font</a>
