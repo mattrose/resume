@@ -6,10 +6,24 @@ K1R 7E8
 
 ### Professional Summary
 
-UNIX Systems Administrator and Software Developer with over 20 years of experience in many aspects of Information Technology, including administering and developing a variety software ranging from enterprise-grade monitoring software for a variety of platforms, including Linux, FreeBSD, Windows, MacOS and a variety of other UNIX Operating System.  Enjoys working in a collaborative team environment, and enjoys both learning from other team members, and teaching them things I have learned.
+UNIX Systems Administrator and Software Developer with over 25 years of experience in many aspects of Information Technology, including administering and developing a variety software ranging from enterprise-grade monitoring software for a variety of platforms, including Linux, FreeBSD, Windows, MacOS and a variety of other UNIX Operating System.  Enjoys working in a collaborative team environment, and enjoys both learning from other team members, and teaching them things I have learned.
 
 
 ### Employment History
+
+#### February 2021 to September 2025
+
+**Senior Systems Engineer**
+Optavise, LLC
+
+* Administered a network of over 300 Linux and Windows servers for a US Healthcare Benefits 
+Administration organization
+* Administered a network of Oracle, MySQL, and MSSQL Database servers
+* Administered mission-critical web and e-mail services.
+* Extensive experience updating mission-critical Linux servers with no business impact.
+* Developed numerous deployment automation routines using Saltstack
+* Developed and maintained a nagios monitoring system to monitor all services and hardware
+* Maintained a network of VMWare servers for both development and other services
 
 #### March 2017 to February 2020
 
