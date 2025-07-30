@@ -24,6 +24,8 @@ Administration organization
 * Developed numerous deployment automation routines using Saltstack
 * Developed and maintained a nagios monitoring system to monitor all services and hardware
 * Maintained a network of VMWare servers for both development and other services
+* Cisco Networking - vlans and other things
+* 
 
 #### March 2017 to February 2020
 
