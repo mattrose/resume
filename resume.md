@@ -24,8 +24,8 @@ Administration organization
 * Developed numerous deployment automation routines using Saltstack
 * Developed and maintained a nagios monitoring system to monitor all services and hardware
 * Maintained a network of VMWare servers for both development and other services
-* Cisco Networking - vlans and other things
-* 
+* Administered a network of Cisco swiches and routers for a network spanning multiple datacenters.
+* Administered both On-Premise and hosted JIRA, Confluence and Bitbucket servers, and co-ordinated the migration from On-Premise to hosted Atlassian services.
 
 #### March 2017 to February 2020
 
